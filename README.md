@@ -1,2 +1,4 @@
-# ABC-Cloaker-Ultimate
-A.B.C Cloaker Ultimate, credit to, Fog Network for the idea. This is a updated version of the FogNetwork's A.B.C cloaker.
+# ARCHIVED - I've came to realize how retarded this project was
+
+# ABC Cloaker Ultimate
+A UI for [*`FogNetwork's A.B.C`*](https://github.com/FogNetwork/ABC), without any glamorous extra additional features.
